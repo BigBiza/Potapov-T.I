@@ -1,5 +1,4 @@
-print('Введите число:')
-number=int(input())
+number=int(input('Введите число:'))
 if number % 2 == 0:
     print('Число чётное')
 else:
